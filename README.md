@@ -1,0 +1,2 @@
+# traning
+my traning
