@@ -4,4 +4,5 @@
     text-align: right; 
     background-position: center;
     display: flex;   
+    position: inherit;
 }
