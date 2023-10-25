@@ -1,5 +1,7 @@
 .test {
     background-color: red;
     color: white;
-    text-align: right;    
+    text-align: right; 
+    background-position: center;
+    display: flex;   
 }
